@@ -1,0 +1,8 @@
+2019-10-18 07:25:03,936 INFO com.yubraj.SpringBootWebApplication [main] class : SpringBootWebApplication method : main BEGIN
+2019-10-18 07:25:04,916 INFO com.yubraj.SpringBootWebApplication [main] Starting SpringBootWebApplication on sisira with PID 10180 (started by siva in D:\Freelancing\Yubraj\2nd task\spring-boot-web-jsp)
+2019-10-18 07:25:04,917 INFO com.yubraj.SpringBootWebApplication [main] No active profile set, falling back to default profiles: default
+2019-10-18 07:25:11,067 INFO com.yubraj.RestConfig [main] class : RestConfig method : restTemplate  ======>
+2019-10-18 07:25:12,322 INFO com.yubraj.SpringBootWebApplication [main] Started SpringBootWebApplication in 8.146 seconds (JVM running for 8.939)
+2019-10-18 07:25:12,322 INFO com.yubraj.SpringBootWebApplication [main] class : SpringBootWebApplication method : main END
+2019-10-18 07:25:19,571 INFO com.yubraj.WelcomeController [http-nio-8081-exec-1] class : WelcomeController method : welcome  BEGIN
+2019-10-18 07:25:19,842 INFO com.yubraj.WelcomeController [http-nio-8081-exec-1] class : WelcomeController method : welcome  END
